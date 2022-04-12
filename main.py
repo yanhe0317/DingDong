@@ -32,8 +32,8 @@ if __name__ == "__main__":
 
         if len(showList) > 0:
 
-            # 结算，但这里的end.png目前并不存在，因为我没抢到过……。
-            if "end.png" in [item[0] for item in showList]:
+            # 结算，但这里的5-saomiaoerweimazhifu.png目前并不存在，因为我没抢到过……。
+            if "5-saomiaoerweimazhifu.png" in [item[0] for item in showList]:
                 break
             # 收获时间选择。
             elif "time.png" in [item[0] for item in showList]:
