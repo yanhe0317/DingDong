@@ -37,7 +37,7 @@ if __name__ == "__main__":
 
                 break
 
-            # 收获时间选择。
+            # 收货时间选择。
             elif "time.png" in [item[0] for item in showList]:
 
                 x, y = getPosition("time.png")
